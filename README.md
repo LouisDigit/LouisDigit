@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LouisDigit
+- 👋 Hi, I’m @LouisDigit, I'm a student of Epitech.
 - 👀 I’m interested in Front-end developpement 
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate with you
