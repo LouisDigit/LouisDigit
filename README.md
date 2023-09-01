@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Louis, I'm a student of Epitech.
 - 👀 I’m interested in Front-end developpement 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Next JS
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me louisv.digit@gmail.com
 
