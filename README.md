@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Louis, I'm a student of Epitech.
-- 👀 I’m interested in Front-end developpement 
-- 🌱 I’m currently learning Next JS
+- 👋 Hi, I’m Louis, I'm an alumni of Epitech.
+- 👀 I’m interested in Full stack development around Javascript ecosystem
+- 🌱 I’m currently learning clean architecture
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me louisv.digit@gmail.com
 
